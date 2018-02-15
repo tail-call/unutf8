@@ -1,6 +1,6 @@
 // This program reads utf-8 characters from stdio, tries to convert
 // them to code points and prints resulting code points to stdout,
-// CR-separated.
+// LF-separated.
 
 #include <stdio.h>
 #include <stdlib.h>
